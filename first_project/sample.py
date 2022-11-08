@@ -15,7 +15,7 @@ for item in col_list:
         
 print(found_names)
 
-found_name_series = pd.Series(found_names)
+found_names_series = pd.Series(found_names)
 
-print(found_name_series)
+print(found_namesss_series)
 

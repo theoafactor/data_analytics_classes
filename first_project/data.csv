@@ -1,5 +1,5 @@
-id,firstname,lastname,email
-1,James,John,james@email.com
-2,Jerry,Mike,jerry@gmail.com
-3,Mary,Joseph,mary@gmail.com
-4,Joshua,Jade,joshua@gmail.com
+id,firstname,lastname,age,email,hobbies
+1,James,John,12,james@email.com,Reading;Eating
+2,Jerry,Mike,13,jerry@gmail.com,Reading;Sleeping;Teaching
+3,Mary,Joseph,14,mary@gmail.com,Eating;Writing;Teaching
+4,Joshua,Jade,14,joshua@gmail.com,Teaching;Public Speaking;Writing
