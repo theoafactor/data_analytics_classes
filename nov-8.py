@@ -7,7 +7,7 @@ print(Df)
 
 # 1. create the filter mask 
 # filter_mask = Df["firstname"] == "Joshua"
-filter_mask = ( Df["firstname"].str.startswith("J") &  Df["hobbies"].str.contains("Reading") )
+filter_mask = ( Df["firstname"].str.startswith("J") &  D 
 
 # data = Df[filter_mask]
 
